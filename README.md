@@ -15,7 +15,6 @@ pip install -r requirements.txt
 |Questão04| 
 |Questão10| 	
 |Questão14|
-
 |Questão15|
 |Questão20|
 |Questão22| 
