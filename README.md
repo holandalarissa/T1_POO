@@ -5,10 +5,6 @@ Técnico Integrado em Informática.
 Turma: P3
 Alunas: Larissa dos Santos Holanda; Maria Eliza Teofilo Ferreira.
 
-## Requisitos
-Para instalar todas as bibliotecas necessárias execute no terminal (no mesmo diretório do projeto) o seguinte comando:
-pip install -r requirements.txt
-
 ## Questões
 
 | Question | Description |
