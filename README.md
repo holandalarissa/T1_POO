@@ -6,7 +6,7 @@ Técnico Integrado em Informática.
 
 Turma: P3
 
-Alunas: Larissa dos Santos Holanda; Maria Eliza Teofilo Ferreira.
+Desenvolvido por: Larissa dos Santos Holanda e Maria Eliza Teofilo Ferreira.
 
 ## Questões
 
