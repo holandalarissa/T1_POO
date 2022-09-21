@@ -8,10 +8,6 @@ Turma: P3
 
 Alunas: Larissa dos Santos Holanda; Maria Eliza Teofilo Ferreira.
 
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-
 ## Questões
 
 | Questão | Descrição | Autor |
