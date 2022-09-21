@@ -11,7 +11,7 @@ Alunas: Larissa dos Santos Holanda; Maria Eliza Teofilo Ferreira.
 ## Questões
 
 | Questão | Descrição |
-|---|---|
+|---|---|---|
 |Questão 01| Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números. 
 |Questão 02| Faça um programa que receba três notas, calcule e mostre a média aritmética entre elas.
 |Questão 04| Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
