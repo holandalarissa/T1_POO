@@ -12,7 +12,7 @@ Alunas: Larissa dos Santos Holanda; Maria Eliza Teofilo Ferreira.
 
 | Questão | Descrição | Autor |
 |---|---|---|
-|Questão 01| Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números. | Larissa |
+|Questão 01| Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números. | Larissa dos Santos|
 |Questão 02| Faça um programa que receba três notas, calcule e mostre a média aritmética entre elas. | Maria Eliza |
 |Questão 04| Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%. | Maria Eliza |
 |Questão 10| Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área: PI x R elevado a 2. | Larissa |
