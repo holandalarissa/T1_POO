@@ -1,16 +1,13 @@
 # T1_POO
 
-Este repositório contém as questões do 1° trabalho da disciplina: Programação orientada a objetos 2022.2
-
-Técnico Integrado em Informática.
-
-Turma: P3
-
-Desenvolvido por: Larissa dos Santos Holanda e Maria Eliza Teofilo Ferreira.
+Este repositório contém as questões do 1° trabalho da disciplina: Programação orientada a objetos 2022.2<br>
+Técnico Integrado em Informática.<br>
+Turma: P3.<br>
+Desenvolvido por: Larissa dos Santos Holanda e Maria Eliza Teofilo Ferreira.<br>
 
 ## Questões
 
-| Questão | Descrição | Autor |
+| Questão | Descrição | Autora |
 |---|---|---|
 |Questão 01| Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números. | Larissa |
 |Questão 02| Faça um programa que receba três notas, calcule e mostre a média aritmética entre elas. | Maria Eliza |
